@@ -9,4 +9,23 @@ body {
 main{
     padding: 15px; 
 }
+h1{
+    font-family: 'Covered By Your Grace', cursive;
+}
+h2{
+    font-family: 'Pangolin', cursive;  
+}
+p{
+    font-family: 'Amatic SC', cursive;
+}
 
+body{
+    color: black;
+}
+ h1{
+    color: blueviolet;
+ }
+
+h2{
+    color: cornsilk;
+}
